@@ -1,0 +1,6 @@
+node_modules
+.env
+MONGOOSE = monogose://localhost:27017/orian24-vinted
+CLOUD_NAME: cloud_name: "dqw9lubxk",
+API_KEY :"485422313846785",
+API_APISECRET: "SDDWVFdnYxMg4onHB35wy8bnTno",
